@@ -1,6 +1,6 @@
 # Function to add two numbers
 def add(x, y):
-    return x + y
+  return x + y
 
 # Function to subtract two numbers
 def subtract(x, y):
@@ -15,6 +15,7 @@ def divide(x, y):
     return x / y
 
 # Main program
+print("---- Welcome ----")
 print("Select operation.")
 print("1. Add")
 print("2. Subtract")
